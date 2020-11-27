@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Recyclerview</string>
+    <string-array name="tittle">
+        <item>Vennela</item>
+        <item>Sabita</item>
+        <item>Maha</item>
+        <item>Sravya</item>
+        <item>Esha</item>
+        <item>Swathi</item>
+        <item>Visali</item>
+        <item>Ganesh</item>
+        <item>Vijay</item>
+        <item>Parmesh</item>
+
+    </string-array>
+    <string-array name="Subtittle">
+        <item>Kharagpur</item>
+        <item>Kolkata</item>
+        <item>Visakhpatanam</item>
+        <item>Simhachalam</item>
+        <item>R.K.beach</item>
+        <item>Annakapalli</item>
+        <item>GandhiNagar</item>
+        <item>Gajuwaka</item>
+        <item>Nad</item>
+        <item>Kadapa</item>
+    </string-array>
+</resources>
